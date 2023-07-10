@@ -7,7 +7,7 @@ Mwebembezi Fred 2022/MHIT/014/PS
 Matsiko Winston 2022/MHIT/018/PS
 Tusasiibwe Ivan 2022/MHIT/007/PS
 Introduction
-The Diabetic Patient Adherence App is a mobile application developed to address the challenges faced by diabetic patients in managing their condition effectively. The app aims to improve patient adherence to treatment plans by providing features such as medication tracking, diet management, appointment scheduling, health information provision, personal health record maintenance, and growth status tracking. The Diabetic Patient Adherence App was developed to assist diabetic patients in managing their condition by providing a user-friendly platform that promotes adherence to treatment plans and self-management.
+The Diabetic Patient Adherence App is a mobile application developed to address the challenges faced by diabetic patients in managing their condition effectively. The app aims to improve patient adherence to treatment plans by providing features such as medication tracking, diet management, appointment scheduling, health information provision, personal health record maintenance, and growth status tracking USING AI SMARTREPLY MODEL. The Diabetic Patient Adherence App was developed to assist diabetic patients in managing their condition by providing a user-friendly platform that promotes adherence to treatment plans and self-management.
 This report provides an overview of the app's objectives, features, technical implementation, usability, security considerations, and conclusions based on the app's development and deployment.
 Problem Statement
 Diabetes is a chronic condition that requires regular monitoring, medication adherence, and lifestyle modifications for effective management. Non-adherence to medication, diet, exercise, and regular check-ups can lead to complications and suboptimal management of diabetes. Therefore, there is a need for an intuitive and user-friendly mobile application that helps diabetic patients track and manage their condition while promoting adherence to their treatment plan.
@@ -41,7 +41,8 @@ Personal Health Records:
 Secure storage and access to medical history
 Growth status tracking (weight, blood glucose levels, physical activity)
 Note-taking feature for capturing personal observations and concerns
-Growth Status Tracking:
+Growth Status Tracking:using AI SMARTREPLY MODEL
+
 Tracking of key health parameters (blood glucose levels, weight, physical activity)
 Visualizations and trends analysis
 Alerts for abnormal readings
