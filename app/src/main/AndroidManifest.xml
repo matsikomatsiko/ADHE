@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/appointment"
+        android:label="Diabetic Patient Adherence"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ADHE"
+        tools:targetApi="31">
+        <activity
+            android:name=".SplashActivity"
+            android:label="Diabetic Patient Adherence"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="Diabetic Patient Adherence"
+            >
+        </activity>
+        <activity
+            android:name=".AddNewProfile"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".HomeScreen"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".BasicInfo"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".MedicalInfo"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".GrowthStatus"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".Doctor"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".AddDoctor"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".DoctorInfo"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".MedicalCenter"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".MedicalCenterInfo"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".AddMedicalCenter"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".Vaccine"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+
+        <activity
+            android:name=".Dose"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".Appointment"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".AddAppointment"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".AppointmentDetails"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".Diet"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".UpdateInfo"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".UpdateDoctor"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".UpdateHealthCare"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".Notes"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+        <activity
+            android:name=".NotePage"
+            android:label="Diabetic Patient Adherence" >
+
+        </activity>
+    </application>
+
+</manifest>
